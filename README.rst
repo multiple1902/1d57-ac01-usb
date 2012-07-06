@@ -25,7 +25,7 @@ or if you prefer ``clang``, type ``make clang``::
 
     clang -std=c99 -Wall -lusb-1.0 -lX11 -lXtst -o presenter presenter.c
 
-Both works well on my laptop.
+Both work well on my laptop.
 
 Troubleshooting
 ---------------
