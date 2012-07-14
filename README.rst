@@ -35,4 +35,4 @@ If running ``presenter`` from command line, remember to set the ``DISPLAY`` envi
     export DISPLAY=:0
     ./presenter
 
-or you may trigger segmentaion fault.
+or you may trigger segmentation fault.
